@@ -60,10 +60,6 @@ Upload CSV or XLSX file with products.
 
 Retrieve all products from the database.
 
-### DELETE /api/products
-
-Clear all products from the database.
-
 ### GET /health
 
 Health check endpoint.
